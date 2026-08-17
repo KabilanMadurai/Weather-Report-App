@@ -6,7 +6,7 @@ The application uses **Axios** for API requests and provides a clean, responsive
 
 ## 🚀 Live Demo
 
-**Live Demo:** Add your GitHub Pages URL here
+**Live Demo:** https://kabilanmadurai.github.io/Weather-Report-App/
 
 ## 📸 Features
 
